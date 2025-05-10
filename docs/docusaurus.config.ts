@@ -70,7 +70,7 @@ const config: Config = {
       title: 'Documentação',
       logo: {
         alt: 'Woba Logo',
-        src: 'img/logo.png',
+        src: 'img/logowoba-preta.png',
         width: 32,
         height: 32,
       },
