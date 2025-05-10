@@ -69,8 +69,10 @@ const config: Config = {
     navbar: {
       title: 'Documentação',
       logo: {
-        alt: 'Logo',
-        src: 'img/logo.svg',
+        alt: 'Woba Logo',
+        src: 'img/logo.png',
+        width: 32,
+        height: 32,
       },
       items: [
         {
